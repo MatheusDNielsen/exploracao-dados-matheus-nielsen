@@ -1,0 +1,49 @@
+{
+  "arquivo": "medals_total.csv",
+  "descricao": "Medalhas por país dos jogos olimpicos de verao de paris 2024",
+  "formato": "csv",
+  "delimitador": ",",
+  "codificacao": "UTF-8",
+  "quantidade_linhas": "93",
+  "colunas": [
+    {
+      "nome": "country_code",
+      "tipo": "String",
+      "descricao": "Código do país"
+    },
+    {
+      "nome": "country",
+      "tipo": "String",
+      "descricao": "Nome do país"
+    },
+    {
+      "nome": "country_long",
+      "tipo": "String",
+      "descricao": "Nome completo do país"
+    },
+    {
+      "nome": "Gold Medal",
+      "tipo": "Integer",
+      "descricao": "Número de medalhas de ouro obtidas"
+    },
+    {
+      "nome": "Silver Medal",
+      "tipo": "Integer",
+      "descricao": "Número de medalhas de prata obtidas"
+    },
+    {
+      "nome": "Bronze Medal",
+      "tipo": "Integer",
+      "descricao": "Número de medalhas de bronze obtidas"
+    },
+    {
+      "nome": "Total",
+      "tipo": "Integer",
+      "descricao": "Número de total de medalhas obtidas"
+    },
+  ],
+  "fonte": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data",
+  "data_coleta": "2026-03-29",
+  "responsavel": "Matheus Nielsen",
+  "obeservacoes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "arquivo": "",
+  "descricao": "",
+  "formato": "",
+  "delimitador": "",
+  "codificacao": "",
+  "quantidade_linhas": "",
+  "colunas": [
+    {
+      "nome": "",
+      "tipo": "",
+      "descricao": ""
+    }
+  ],
+  "fonte": "",
+  "data_coleta": "YYYY-MM-DD",
+  "responsavel": "",
+  "observacoes": ""
+}

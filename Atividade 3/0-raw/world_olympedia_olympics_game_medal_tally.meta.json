@@ -1,0 +1,59 @@
+{
+  "arquivo": "world_olympedia_olympics_game_medal_tally.csv",
+  "descricao": "Medalhas por país por edição de jogos olímpicos",
+  "formato": "csv",
+  "delimitador": ",",
+  "codificacao": "UTF-8",
+  "quantidade_linhas": "1880",
+  "colunas": [
+    {
+      "nome": "year",
+      "tipo": "Integer",
+      "descricao": "Ano do evento"
+    },
+    {
+      "nome": "edition",
+      "tipo": "String",
+      "descricao": "Edição dos jogos olímpicos"
+    },
+    {
+      "nome": "edition_id",
+      "tipo": "Integer",
+      "descricao": "Identificação da edição"
+    },
+    {
+      "nome": "country",
+      "tipo": "String",
+      "descricao": "Nome completo do país"
+    },
+    {
+      "nome": "country_noc",
+      "tipo": "String",
+      "descricao": "Código único do país"
+    },
+    {
+      "nome": "gold",
+      "tipo": "Integer",
+      "descricao": "Número de medalhas de ouro obtidas"
+    },
+    {
+      "nome": "silver",
+      "tipo": "Integer",
+      "descricao": "Número de medalhas de prata obtidas"
+    },
+    {
+      "nome": "bronze",
+      "tipo": "Integer",
+      "descricao": "Número de medalhas de bronze obtidas"
+    },
+    {
+      "nome": "total",
+      "tipo": "Integer",
+      "descricao": "Número de total de medalhas obtidas"
+    },
+  ],
+  "fonte": "https://basedosdados.org/dataset/62f8cb83-ac37-48be-874b-b94dd92d3e2b",
+  "data_coleta": "2026-03-29",
+  "responsavel": "Matheus Nielsen",
+  "observacoes": ""
+}
